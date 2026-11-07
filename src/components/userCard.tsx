@@ -1,5 +1,4 @@
 import type{User} from '../types/user'
-import React, { useState } from 'react'
 type UserListProps = {
         user : User
     }
